@@ -1,0 +1,3 @@
+{
+  "ignore": ["chats/*", "leads.json", "followups.json", "*.log", ".wwebjs_auth/", ".wwebjs_cache/"]
+}
